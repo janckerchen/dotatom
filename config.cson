@@ -1,0 +1,42 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "c28e75e3-3b34-4707-a375-b2789a8484d3"
+  "atom-ctags":
+    GotoSymbolClick: "middle click"
+    autoBuildTagsWhenActive: true
+    cmdArgs: "--langmap=Java:+.mq4.mq5.mqh"
+  "autocomplete-plus": {}
+  core:
+    disabledPackages: [
+      "symbols-view"
+    ]
+    packagesWithKeymapsDisabled: [
+      "atom-beautify"
+      "aligner"
+    ]
+    projectHome: "/opt/dev/github"
+    telemetryConsent: "limited"
+    themes: [
+      "seti-ui"
+      "intellij-darcula-syntax"
+    ]
+  editor:
+    fontFamily: "Source Code Pro"
+    fontSize: 13
+    invisibles: {}
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "b88f7224-163e-a20b-a8d8-c9640f6b1962"
+  "go-plus":
+    currentPanelHeight: "37.10144927536232vh"
+    goPath: "/usr/local/go:/opt/dev_study/study_go:/opt/dev_play/go_projects"
+    panelDisplayMode: "closed"
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  welcome:
+    showOnStartup: false
