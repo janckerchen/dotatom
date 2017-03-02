@@ -3,3 +3,9 @@ compile-cache
 dev
 .npm
 .node-gyp
+
+*
+!config.cson
+!keymap.cson
+!snippets.cson
+!styles.less
