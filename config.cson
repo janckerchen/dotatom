@@ -8,6 +8,10 @@
     cmdArgs: "--langmap=Java:+.mq4.mq5.mqh"
   "autocomplete-plus": {}
   core:
+    ignoredNames: [
+      ".git"
+      ".tags"
+    ]
     disabledPackages: [
       "symbols-view"
     ]
